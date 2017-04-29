@@ -13,6 +13,7 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+orig_input_de.txt
 
 # Windows shortcuts
 *.lnk
